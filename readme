@@ -1,0 +1,9 @@
+usage: dsstorewipe /directory/path/
+
+cleans out the given directory and all subdirectories of those pesky .DS_Store files. you can pass in as many separate paths as you like. if you don't pass any, it will just use the working directory.
+
+if you build .debs on your mac, this is an excellent tool. stray .DS_Stores in a .deb can cause all kinds of problems, even breaking installation entirely.
+
+oh and don't be a jerk and try to crash it. just be gentle. nice and easy
+
+(for maximum effectiveness, drop this manly binary into /etc/bin)
