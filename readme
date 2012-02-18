@@ -6,4 +6,4 @@ if you build .debs on your mac, this is an excellent tool. stray .DS_Stores in a
 
 oh and don't be a jerk and try to crash it. just be gentle. nice and easy
 
-(for maximum effectiveness, drop this manly binary into /etc/bin)
+(for maximum effectiveness, drop this manly binary into /usr/bin)
